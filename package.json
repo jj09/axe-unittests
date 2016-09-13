@@ -1,0 +1,14 @@
+{
+  "name": "axe-unittests",
+  "version": "1.0.0",
+  "description": "Accessibility unit tests with aXe, Jasmine and QUnit",
+  "scripts": {
+    "qunit": "qunit-tests.html",
+    "jasmine": "jasmine-tests.html"
+  },
+  "author": "jj09",
+  "license": "MIT",
+  "devDependencies": {
+    "axe-core": "^2.0.5"
+  }
+}
